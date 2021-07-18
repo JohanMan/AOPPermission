@@ -1,0 +1,2 @@
+include ':app', ':aop-permisssion'
+rootProject.name='AOPPermission'
